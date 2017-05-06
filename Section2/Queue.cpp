@@ -17,18 +17,22 @@ typedef struct {
 
 //初始化队列
 void initQueue(LinkQueue q){
-    q->front=q->rear=(QueuePtr)malloc(sizeof(QueuePtr));
-    q->front->Next=NULL;
+    QueuePtr s = (QueuePtr)malloc(sizeof(QNode));   //定义一个头结点
+    s->Next=NULL;
+    q->front=q->rear=s;
 }
 
 //插入元素
 void insertElem(LinkQueue q,int elem){
     QueuePtr temp;
     temp=(QueuePtr)malloc(sizeof(QueuePtr));
-    temp->Data=elem;
-    //temp->Next=NULL;
-    q->rear->Next=temp;
-    q->rear=temp;
+    if(temp){
+        temp->Data=elem;
+        temp->Next=NULL;
+        q->rear->Next=temp;
+        q->rear=temp;
+    }
+
 }
 //判断是否为空
 bool isEmpty(LinkQueue q){
@@ -55,11 +59,16 @@ int delElem(LinkQueue q){
 }
 
 int printQueue(LinkQueue q){
-    QueuePtr temp=q->front->Next;
-    if(temp!=q->rear){
-        printf("%d ",temp->Data);
-        temp=temp->Next;
+    if(q->rear==q->front){
+        printf("队列满");
+    } else{
+        QueuePtr temp=q->front->Next;
+        while (temp){
+            printf("%d ",temp->Data);
+            temp=temp->Next;
+        }
     }
+    printf("\n");
 }
 
 int main(){
@@ -69,6 +78,9 @@ int main(){
         insertElem(q,i);
     }
     printQueue(q);
+    delElem(q);
+    printQueue(q);
+
 }
 
 
