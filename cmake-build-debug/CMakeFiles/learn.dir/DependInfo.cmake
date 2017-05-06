@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/gaoshang/CLionProjects/Clearn/Section2/PtrLnode.cpp" "/Users/gaoshang/CLionProjects/Clearn/cmake-build-debug/CMakeFiles/learn.dir/Section2/PtrLnode.cpp.o"
-  "/Users/gaoshang/CLionProjects/Clearn/Section2/Queue.cpp" "/Users/gaoshang/CLionProjects/Clearn/cmake-build-debug/CMakeFiles/learn.dir/Section2/Queue.cpp.o"
-  "/Users/gaoshang/CLionProjects/Clearn/Section2/Stack.cpp" "/Users/gaoshang/CLionProjects/Clearn/cmake-build-debug/CMakeFiles/learn.dir/Section2/Stack.cpp.o"
-  "/Users/gaoshang/CLionProjects/Clearn/Section2/Stack2.cpp" "/Users/gaoshang/CLionProjects/Clearn/cmake-build-debug/CMakeFiles/learn.dir/Section2/Stack2.cpp.o"
+  "/Users/gaoshang/Clearn/Section2/PtrLnode.cpp" "/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles/learn.dir/Section2/PtrLnode.cpp.o"
+  "/Users/gaoshang/Clearn/Section2/Queue.cpp" "/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles/learn.dir/Section2/Queue.cpp.o"
+  "/Users/gaoshang/Clearn/Section2/Stack.cpp" "/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles/learn.dir/Section2/Stack.cpp.o"
+  "/Users/gaoshang/Clearn/Section2/Stack2.cpp" "/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles/learn.dir/Section2/Stack2.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

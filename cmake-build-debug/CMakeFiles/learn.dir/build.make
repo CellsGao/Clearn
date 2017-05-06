@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/gaoshang/CLionProjects/Clearn
+CMAKE_SOURCE_DIR = /Users/gaoshang/Clearn
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/gaoshang/CLionProjects/Clearn/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/gaoshang/Clearn/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/learn.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/learn.dir/flags.make
 
 CMakeFiles/learn.dir/Section2/PtrLnode.cpp.o: CMakeFiles/learn.dir/flags.make
 CMakeFiles/learn.dir/Section2/PtrLnode.cpp.o: ../Section2/PtrLnode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gaoshang/CLionProjects/Clearn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/learn.dir/Section2/PtrLnode.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learn.dir/Section2/PtrLnode.cpp.o -c /Users/gaoshang/CLionProjects/Clearn/Section2/PtrLnode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/learn.dir/Section2/PtrLnode.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learn.dir/Section2/PtrLnode.cpp.o -c /Users/gaoshang/Clearn/Section2/PtrLnode.cpp
 
 CMakeFiles/learn.dir/Section2/PtrLnode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learn.dir/Section2/PtrLnode.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gaoshang/CLionProjects/Clearn/Section2/PtrLnode.cpp > CMakeFiles/learn.dir/Section2/PtrLnode.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gaoshang/Clearn/Section2/PtrLnode.cpp > CMakeFiles/learn.dir/Section2/PtrLnode.cpp.i
 
 CMakeFiles/learn.dir/Section2/PtrLnode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learn.dir/Section2/PtrLnode.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gaoshang/CLionProjects/Clearn/Section2/PtrLnode.cpp -o CMakeFiles/learn.dir/Section2/PtrLnode.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gaoshang/Clearn/Section2/PtrLnode.cpp -o CMakeFiles/learn.dir/Section2/PtrLnode.cpp.s
 
 CMakeFiles/learn.dir/Section2/PtrLnode.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/learn.dir/Section2/PtrLnode.cpp.o.provides.build: CMakeFiles/learn.di
 
 CMakeFiles/learn.dir/Section2/Stack.cpp.o: CMakeFiles/learn.dir/flags.make
 CMakeFiles/learn.dir/Section2/Stack.cpp.o: ../Section2/Stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gaoshang/CLionProjects/Clearn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/learn.dir/Section2/Stack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learn.dir/Section2/Stack.cpp.o -c /Users/gaoshang/CLionProjects/Clearn/Section2/Stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/learn.dir/Section2/Stack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learn.dir/Section2/Stack.cpp.o -c /Users/gaoshang/Clearn/Section2/Stack.cpp
 
 CMakeFiles/learn.dir/Section2/Stack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learn.dir/Section2/Stack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gaoshang/CLionProjects/Clearn/Section2/Stack.cpp > CMakeFiles/learn.dir/Section2/Stack.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gaoshang/Clearn/Section2/Stack.cpp > CMakeFiles/learn.dir/Section2/Stack.cpp.i
 
 CMakeFiles/learn.dir/Section2/Stack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learn.dir/Section2/Stack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gaoshang/CLionProjects/Clearn/Section2/Stack.cpp -o CMakeFiles/learn.dir/Section2/Stack.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gaoshang/Clearn/Section2/Stack.cpp -o CMakeFiles/learn.dir/Section2/Stack.cpp.s
 
 CMakeFiles/learn.dir/Section2/Stack.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/learn.dir/Section2/Stack.cpp.o.provides.build: CMakeFiles/learn.dir/S
 
 CMakeFiles/learn.dir/Section2/Stack2.cpp.o: CMakeFiles/learn.dir/flags.make
 CMakeFiles/learn.dir/Section2/Stack2.cpp.o: ../Section2/Stack2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gaoshang/CLionProjects/Clearn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/learn.dir/Section2/Stack2.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learn.dir/Section2/Stack2.cpp.o -c /Users/gaoshang/CLionProjects/Clearn/Section2/Stack2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/learn.dir/Section2/Stack2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learn.dir/Section2/Stack2.cpp.o -c /Users/gaoshang/Clearn/Section2/Stack2.cpp
 
 CMakeFiles/learn.dir/Section2/Stack2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learn.dir/Section2/Stack2.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gaoshang/CLionProjects/Clearn/Section2/Stack2.cpp > CMakeFiles/learn.dir/Section2/Stack2.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gaoshang/Clearn/Section2/Stack2.cpp > CMakeFiles/learn.dir/Section2/Stack2.cpp.i
 
 CMakeFiles/learn.dir/Section2/Stack2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learn.dir/Section2/Stack2.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gaoshang/CLionProjects/Clearn/Section2/Stack2.cpp -o CMakeFiles/learn.dir/Section2/Stack2.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gaoshang/Clearn/Section2/Stack2.cpp -o CMakeFiles/learn.dir/Section2/Stack2.cpp.s
 
 CMakeFiles/learn.dir/Section2/Stack2.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/learn.dir/Section2/Stack2.cpp.o.provides.build: CMakeFiles/learn.dir/
 
 CMakeFiles/learn.dir/Section2/Queue.cpp.o: CMakeFiles/learn.dir/flags.make
 CMakeFiles/learn.dir/Section2/Queue.cpp.o: ../Section2/Queue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gaoshang/CLionProjects/Clearn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/learn.dir/Section2/Queue.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learn.dir/Section2/Queue.cpp.o -c /Users/gaoshang/CLionProjects/Clearn/Section2/Queue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/learn.dir/Section2/Queue.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learn.dir/Section2/Queue.cpp.o -c /Users/gaoshang/Clearn/Section2/Queue.cpp
 
 CMakeFiles/learn.dir/Section2/Queue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learn.dir/Section2/Queue.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gaoshang/CLionProjects/Clearn/Section2/Queue.cpp > CMakeFiles/learn.dir/Section2/Queue.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gaoshang/Clearn/Section2/Queue.cpp > CMakeFiles/learn.dir/Section2/Queue.cpp.i
 
 CMakeFiles/learn.dir/Section2/Queue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learn.dir/Section2/Queue.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gaoshang/CLionProjects/Clearn/Section2/Queue.cpp -o CMakeFiles/learn.dir/Section2/Queue.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gaoshang/Clearn/Section2/Queue.cpp -o CMakeFiles/learn.dir/Section2/Queue.cpp.s
 
 CMakeFiles/learn.dir/Section2/Queue.cpp.o.requires:
 
@@ -169,7 +169,7 @@ learn: CMakeFiles/learn.dir/Section2/Stack2.cpp.o
 learn: CMakeFiles/learn.dir/Section2/Queue.cpp.o
 learn: CMakeFiles/learn.dir/build.make
 learn: CMakeFiles/learn.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/gaoshang/CLionProjects/Clearn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable learn"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable learn"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/learn.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -189,6 +189,6 @@ CMakeFiles/learn.dir/clean:
 .PHONY : CMakeFiles/learn.dir/clean
 
 CMakeFiles/learn.dir/depend:
-	cd /Users/gaoshang/CLionProjects/Clearn/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/gaoshang/CLionProjects/Clearn /Users/gaoshang/CLionProjects/Clearn /Users/gaoshang/CLionProjects/Clearn/cmake-build-debug /Users/gaoshang/CLionProjects/Clearn/cmake-build-debug /Users/gaoshang/CLionProjects/Clearn/cmake-build-debug/CMakeFiles/learn.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/gaoshang/Clearn/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/gaoshang/Clearn /Users/gaoshang/Clearn /Users/gaoshang/Clearn/cmake-build-debug /Users/gaoshang/Clearn/cmake-build-debug /Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles/learn.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/learn.dir/depend
 

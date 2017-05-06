@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gaoshang/Clearn/Section2/PtrLnode.cpp
+stdlib.h
+-
+iostream
+-
+
+/Users/gaoshang/Clearn/Section2/Queue.cpp
+stdio.h
+-
+iostream
+-
+
+/Users/gaoshang/Clearn/Section2/Stack.cpp
+stdio.h
+-
+
+/Users/gaoshang/Clearn/Section2/Stack2.cpp
+stdio.h
+-
+
