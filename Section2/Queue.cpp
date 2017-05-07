@@ -29,7 +29,7 @@ void insertElem(LinkQueue q,int elem){
     if(temp){
         temp->Data=elem;
         temp->Next=NULL;
-        q->rear->Next=temp;
+        q->rear->Next=temp; //主要是使front的Next指针可以向下指
         q->rear=temp;
     }
 
