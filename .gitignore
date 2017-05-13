@@ -30,3 +30,5 @@ cmake-build-debug/CMakeFiles/Makefile2
 cmake-build-debug/Makefile
 
 *.txt
+
+*.xml
