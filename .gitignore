@@ -8,3 +8,25 @@
 cmake-build-debug/learn
 
 *.xml
+
+*.xml
+
+cmake-build-debug/CMakeFiles/clion-log.txt
+
+cmake-build-debug/CMakeFiles/learn.dir/build.make
+
+cmake-build-debug/CMakeFiles/learn.dir/cmake_clean.cmake
+
+*.cmake
+
+*.make
+
+cmake-build-debug/CMakeFiles/Makefile2
+
+*.marks
+
+*.cbp
+
+cmake-build-debug/Makefile
+
+*.txt

@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/gaoshang/Clearn/Section2/Queue.cpp" "/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles/learn.dir/Section2/Queue.cpp.o"
   "/Users/gaoshang/Clearn/Section2/Stack.cpp" "/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles/learn.dir/Section2/Stack.cpp.o"
   "/Users/gaoshang/Clearn/Section2/Stack2.cpp" "/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles/learn.dir/Section2/Stack2.cpp.o"
+  "/Users/gaoshang/Clearn/Section3/BinTree.cpp" "/Users/gaoshang/Clearn/cmake-build-debug/CMakeFiles/learn.dir/Section3/BinTree.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

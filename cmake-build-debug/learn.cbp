@@ -94,6 +94,9 @@
 		<Unit filename="/Users/gaoshang/Clearn/Section2/Stack2.cpp">
 			<Option target="learn"/>
 		</Unit>
+		<Unit filename="/Users/gaoshang/Clearn/Section3/BinTree.cpp">
+			<Option target="learn"/>
+		</Unit>
 		<Unit filename="/Users/gaoshang/Clearn/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
