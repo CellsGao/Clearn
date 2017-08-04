@@ -71,7 +71,7 @@ int printQueue(LinkQueue q) {
     }
     printf("\n");
 }
-
+/*
 int main() {
     LinkQueue q;
     initQueue(q);
@@ -82,7 +82,7 @@ int main() {
     delElem(q);
     printQueue(q);
 
-}
+}*/
 
 
 
